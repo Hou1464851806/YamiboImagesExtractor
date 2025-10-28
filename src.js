@@ -9,9 +9,9 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM.download
 // @connect      https://bbs.yamibo.com/*
-// @require      https://cdn.bootcdn.net/ajax/libs/jszip/3.6.0/jszip.min.js
-// @require      https://cdn.bootcdn.net/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js
-// @require      https://cdnjs.cloudflare.com/ajax/libs/uuid/8.2.0/uuid.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuid.min.js
 // ==/UserScript==
 
 /*global JSZip*/
