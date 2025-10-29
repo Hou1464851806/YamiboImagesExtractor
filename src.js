@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         百合会图片提取
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.1.1
 // @description  从楼主贴子中提取图片，并且支持以ZIP或EPUB格式下载
 // @author       Nonbeing
 // @license      MIT
@@ -10,7 +10,7 @@
 // @grant        GM.xmlHttpRequest
 // @grant        GM.download
 // @connect      https://bbs.yamibo.com/*
-// @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.10.1/jszip.min.js
+// @require      https://cdnjs.cloudflare.com/ajax/libs/jszip/3.6.0/jszip.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/FileSaver.js/2.0.5/FileSaver.min.js
 // @require      https://cdnjs.cloudflare.com/ajax/libs/uuid/8.3.2/uuid.min.js
 // ==/UserScript==
