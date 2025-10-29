@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Yamibo Images Extractor
+// @name         百合会图片提取
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Extract images from post and download as ZIP or EPUB
+// @description  从楼主贴子中提取图片，并且支持以ZIP或EPUB格式下载
 // @author       Nonbeing
 // @match        https://bbs.yamibo.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yamibo.com
