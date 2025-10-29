@@ -4,6 +4,7 @@
 // @version      0.1
 // @description  从楼主贴子中提取图片，并且支持以ZIP或EPUB格式下载
 // @author       Nonbeing
+// @license      MIT
 // @match        https://bbs.yamibo.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=yamibo.com
 // @grant        GM.xmlHttpRequest
