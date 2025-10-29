@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Yamibo Images Extractor
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      0.1
 // @description  Extract images from post and download as ZIP or EPUB
 // @author       Nonbeing
 // @match        https://bbs.yamibo.com/*
